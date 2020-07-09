@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gl_base_sample_2020",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gl_base_sample_2020::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gl_base_sample_2020-Debug-ecf75bd22300704965bf.json",
+					"name" : "gl_base_sample_2020",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/Максим/Компьютерная графика/LR3/6sem_computer_graphics/gl_base_sample_2020/gl_base_sample_2020/out/build/x64-Debug",
+		"source" : "D:/Users/Максим/Компьютерная графика/LR3/6sem_computer_graphics/gl_base_sample_2020/gl_base_sample_2020"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

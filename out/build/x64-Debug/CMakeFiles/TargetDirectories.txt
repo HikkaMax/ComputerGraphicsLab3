@@ -1,0 +1,3 @@
+D:/Users/Максим/Компьютерная графика/LR3/6sem_computer_graphics/gl_base_sample_2020/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/gl_base_sample_2020.dir
+D:/Users/Максим/Компьютерная графика/LR3/6sem_computer_graphics/gl_base_sample_2020/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Users/Максим/Компьютерная графика/LR3/6sem_computer_graphics/gl_base_sample_2020/gl_base_sample_2020/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
